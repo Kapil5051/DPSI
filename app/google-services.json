@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636047845619",
+    "project_id": "dpsi-8c9ac",
+    "storage_bucket": "dpsi-8c9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636047845619:android:b74a499ee201726ee36f86",
+        "android_client_info": {
+          "package_name": "com.code.dpsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcofh9uEDT_w90rH5EbfOBXK2tj21lgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
